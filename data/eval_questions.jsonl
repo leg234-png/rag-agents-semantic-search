@@ -1,0 +1,30 @@
+{"question": "Combien je paie si j'annule mon voyage 20 jours avant ?", "relevant": ["annulation#bareme-des-frais-d-annulation"]}
+{"question": "Ma valise fait 28 kilos, ça me coûte combien en plus ?", "relevant": ["bagages#excedent-de-poids"]}
+{"question": "Puis-je prendre mon vélo dans l'avion ?", "relevant": ["bagages#equipements-sportifs"]}
+{"question": "Quelle taille maximale pour le sac que je garde avec moi à bord ?", "relevant": ["bagages#bagage-cabine"]}
+{"question": "Avec un billet Basic, combien coûte une valise de 23 kg si je l'ajoute sur internet ?", "relevant": ["bagages#bagage-en-soute"]}
+{"question": "Mon avion est arrivé avec 4 heures de retard sur un Paris-Athènes, combien puis-je toucher ?", "relevant": ["retards#droit-a-indemnisation"]}
+{"question": "La compagnie doit-elle me nourrir pendant que j'attends un vol très retardé ?", "relevant": ["retards#prise-en-charge-pendant-l-attente"]}
+{"question": "Est-ce que je récupère les taxes d'aéroport si mon billet n'est pas remboursable ?", "relevant": ["annulation#taxes-aeroportuaires"]}
+{"question": "Au bout de combien de temps l'argent revient sur ma carte après une annulation ?", "relevant": ["annulation#delai-de-remboursement"]}
+{"question": "Le vol a été supprimé par la compagnie, quelles sont mes options ?", "relevant": ["annulation#annulation-par-la-compagnie"]}
+{"question": "Je veux décaler mon départ d'une semaine avec un tarif Classic, quel est le coût ?", "relevant": ["modification#changement-de-date-ou-d-horaire"]}
+{"question": "Je peux donner mon billet à un ami ?", "relevant": ["modification#changement-de-nom"]}
+{"question": "Quelle assurance couvre une annulation pour raison professionnelle ?", "relevant": ["assurance#formules-proposees"]}
+{"question": "J'ai oublié de prendre l'assurance hier en réservant, est-il trop tard ?", "relevant": ["assurance#souscription"]}
+{"question": "Ma valise a été perdue définitivement, combien serai-je remboursé ?", "relevant": ["assurance#perte-de-bagages"]}
+{"question": "Combien coûte le billet de mon bébé de 10 mois ?", "relevant": ["enfants#bebes-de-moins-de-2-ans"]}
+{"question": "Ma fille de 8 ans peut-elle prendre l'avion toute seule ?", "relevant": ["enfants#mineurs-non-accompagnes"]}
+{"question": "Mon chat pèse 5 kg, peut-il rester avec moi pendant le vol ?", "relevant": ["animaux#en-cabine"]}
+{"question": "Quels papiers faut-il pour faire voyager mon chien ?", "relevant": ["animaux#documents"]}
+{"question": "Peut-on régler en trois fois ?", "relevant": ["paiement#paiement-en-plusieurs-fois"]}
+{"question": "Combien vaut un euro en dollars selon vous ?", "relevant": ["paiement#devises-et-frais-bancaires"]}
+{"question": "Comment atteindre le statut Gold ?", "relevant": ["fidelite#statuts"]}
+{"question": "Mes miles vont-ils disparaître si je ne voyage pas pendant un an ?", "relevant": ["fidelite#utiliser-ses-miles"]}
+{"question": "Un salarié peut-il voyager en business pour un vol de 8 heures ?", "relevant": ["voyages_affaires#classe-de-voyage"]}
+{"question": "Quel budget maximum pour une nuit d'hôtel à Lyon en déplacement professionnel ?", "relevant": ["voyages_affaires#plafonds-d-hebergement"]}
+{"question": "Ma mère est en fauteuil roulant, quand dois-je demander de l'aide à l'aéroport ?", "relevant": ["mobilite_reduite#demande-d-assistance"]}
+{"question": "À partir de quand puis-je m'enregistrer sur internet ?", "relevant": ["enregistrement#enregistrement-en-ligne"]}
+{"question": "Que se passe-t-il si j'arrive à la porte après sa fermeture ?", "relevant": ["enregistrement#embarquement"]}
+{"question": "Puis-je mettre ma batterie externe dans ma valise en soute ?", "relevant": ["bagages#objets-interdits"]}
+{"question": "Est-ce que le train est obligatoire pour un Paris-Lyon en voyage d'affaires ?", "relevant": ["voyages_affaires#delais-de-reservation"]}
