@@ -36,6 +36,24 @@ Garde-fous : budget de 5 actions, arguments d'outils validés par Pydantic (les 
 renvoyées à l'agent pour qu'il se corrige), calculs délégués à des fonctions déterministes plutôt
 qu'au LLM, citations vérifiées.
 
+## État des tests
+
+✅ **17 tests unitaires passent avec succès** :
+- Découpage par section du corpus validé
+- BM25 retrouve les termes exacts
+- Recherche dense et hybride (RRF) fonctionnelles
+- Échelle d'annulation avec tous les cas : frais corrects pour Classic/Basic/Flex à 45j, 30j, 15j, 7j, etc.
+- Erreurs d'outils renvoyées à l'agent pour autocorrection
+- Agent : requête → recherche → réponse avec citations valides
+- Hallucinations (citations inventées) détectées et signalées
+- Outils de calcul et source citation vérifiés
+- Budget des étapes (max 5 actions) respecté
+- API FastAPI : `/search` avec BM25 fonctionnelle
+
+```bash
+pytest -q  # 17 passed
+```
+
 ## Évaluation de la recherche
 
 30 questions formulées comme un client les poserait, souvent sans les mots de la documentation
