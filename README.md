@@ -38,7 +38,7 @@ qu'au LLM, citations vérifiées.
 
 ## État des tests
 
-✅ **17 tests unitaires passent avec succès** :
+ **17 tests unitaires passent avec succès** :
 - Découpage par section du corpus validé
 - BM25 retrouve les termes exacts
 - Recherche dense et hybride (RRF) fonctionnelles
